@@ -1,0 +1,1 @@
+ /home/jose/AndroidStudioProjects/firebase_prueba/firebase_prueba/flash_chat/.dart_tool/flutter_build/17e39a71127141438198302f0c1741eb/native_assets.yaml: 
